@@ -19,5 +19,3 @@ Suggests:
     testthat
 Imports: 
     forcats
-URL: https://github.com/ekmaloney/foofactors
-BugReports: https://github.com/ekmaloney/foofactors/issues
