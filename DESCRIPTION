@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Emily",
            family = "Maloney",
            role = c("aut", "cre"),
-           email = "emily.k.maloney@duke.edu",
+           email = "emily.k.maloney@duke.edu")
 Description: Factors have driven people to extreme measures, like ordering
     custom conference ribbons and laptop stickers to express how HELLNO we
     feel about stringsAsFactors. And yet, sometimes you need them. Can they
